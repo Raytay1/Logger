@@ -1,2 +1,5 @@
 # ignore executable program
 logger
+
+# ignore all .log files
+*.log
